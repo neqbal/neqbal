@@ -1,18 +1,8 @@
-# Hi, I'm Darkstar 👋
-
 ## About Me
-- 🛠️ Security Researcher / CTF Player
+- 🛠️ CTF Player
 - 🧠 Interested in binary exploitation and reverse engineering
-- 🐧 Linux enthusiast
 
 ## Skills
-- C, C++, Python
+- C, C++, Python, Java, javascript
 - GDB, pwndbg, IDA, Ghidra
 - Linux internals, ELF, glibc
-
-## Projects
-- 🔐 Heap Exploitation Notes
-- ⚙️ Custom CTF Tools
-
-## Contact
-- GitHub: https://github.com/darkstar
